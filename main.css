@@ -1,13 +1,13 @@
 @font-face {
 font-family: 'Master-of-Comics-Personal-Use';
-src: url('font/Master-of-Comics-Personal-Use.ttf') format('ttf');
+src: local('font/Master-of-Comics-Personal-Use.ttf') format('ttf');
 font-weight: normal;
 font-style: normal;
 }
 
 @font-face {
 font-family: 'NOVABOLD';
-src: url('font/NOVABOLD.otf') format('truetype');
+src: local('font/NOVABOLD.otf') format('truetype');
 font-weight: normal;
 font-style: normal;
 }
