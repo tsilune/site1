@@ -1,0 +1,163 @@
+@font-face {
+font-family: 'Master-of-Comics-Personal-Use';
+src: url('Master-of-Comics-Personal-Use.ttf') format('ttf');
+font-weight: normal;
+font-style: normal;
+}
+
+@font-face {
+font-family: 'NOVABOLD';
+src: url('NOVABOLD.otf') format('truetype');
+font-weight: normal;
+font-style: normal;
+}
+
+@font-face {
+font-family: 'Avenir Next LT Pro Condensed';
+font-style: normal;
+font-weight: normal;
+src: local('Avenir Next LT Pro Condensed'), url('AvenirNextLTPro-Cn.woff') format('woff');
+}
+
+
+
+
+
+
+body {
+  color: #292926;
+  font-family: 'Avenir Next LT Pro Condensed';
+  text-decoration: none;
+  list-style-type: none;
+  font-size: 1.2rem;
+}
+
+a {
+  color: #292926;
+}
+
+section h1 {
+  font-family: NOVABOLD;
+  text-shadow: 0px 2px 2px #292926;
+}
+
+
+/* HEADER */
+
+header {
+  margin-bottom: 200px;
+}
+
+header nav {
+  background-color: #F7B844;
+  font-family: NOVABOLD;
+  font-size: 2em;
+  text-shadow: 0px 2px 2px #292926;
+
+}
+
+header nav span {
+  font-family: Master-of-Comics-Personal-Use;
+}
+
+/* SECTION 2 */
+
+#section2 hr {
+  border: 2px solid #292926;
+  width: 20%;
+  margin-left: 0;
+  margin-top: 0;
+}
+
+
+
+
+/* //////////////////
+/////SECTION3/////
+////////////////// */
+
+
+#section3 h1 {
+  text-align: center;
+}
+
+#section3 span {
+  color: #F7B844;
+  font-size: 1.1em;
+}
+
+#section3 hr {
+  border: 2px solid #292926;
+  width: 20%;
+  margin-right: 30%;
+  margin-top: 0;
+}
+
+.etudes {
+  margin-left: 1%;
+}
+
+.date {
+  height: 2em;
+  border-left: 3px solid #F7B844;
+  padding-top: 1em;
+  padding-left: 1%;
+  margin-bottom: 1%;
+}
+
+
+/* //////////////////
+/////SECTION4/////
+////////////////// */
+
+
+#section4 .inner {
+  height: 10em;
+}
+
+#section4 h1 {
+  text-align: center;
+}
+
+#section4 aside {
+  margin-bottom: 1em;
+}
+
+#section4 hr {
+  border: 2px solid #292926;
+  width: 10%;
+  margin-top: 0;
+}
+
+/* //////////////////
+/////SECTION5/////
+////////////////// */
+
+
+
+#section5 h1 {
+  text-align: center;
+}
+
+
+
+#section5 hr {
+  border: 2px solid #292926;
+  width: 5%;
+  margin-top: 0;
+}
+
+#section5 p {
+  text-align: center;
+}
+
+.contour {
+  border: 3px solid #F7B844;
+  margin-top: 1%;
+  margin-bottom: 1%;
+
+}
+
+.message {
+  height: 5em;
+}
