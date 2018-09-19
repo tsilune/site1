@@ -37,7 +37,7 @@ a {
 }
 
 section h1 {
-  font-family: NOVABOLD;
+  font-family: 'NOVABOLD';
   text-shadow: 0px 2px 2px #292926;
 }
 
@@ -50,14 +50,14 @@ header {
 
 header nav {
   background-color: #F7B844;
-  font-family: NOVABOLD;
+  font-family: 'NOVABOLD';
   font-size: 2em;
   text-shadow: 0px 2px 2px #292926;
 
 }
 
 header nav span {
-  font-family: Master-of-Comics-Personal-Use;
+  font-family: 'Master-of-Comics-Personal-Use';
 }
 
 /* SECTION 2 */
