@@ -13,8 +13,8 @@ font-style: normal;
 }
 
 @font-face {
-font-family: 'Avenir Next LT Pro Condensed';
-src: url("font/Avenir Next LTP Pro Condensed"), url('AvenirNextLTPro-Cn.woff') format('woff');
+font-family: 'AvenirNextCondensed-Regular';
+src: url('font/AvenirNextCondensed-Regular.ttf') format('ttf');
 font-style: normal;
 font-weight: normal;
 }
@@ -26,7 +26,7 @@ font-weight: normal;
 
 body {
   color: #292926;
-  font-family: "Avenir Next LT Pro Condensed";
+  font-family: 'AvenirNextCondensed-Regular';
   text-decoration: none;
   list-style-type: none;
   font-size: 1.2rem;
